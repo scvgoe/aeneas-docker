@@ -1,2 +1,4 @@
-# aeneas-docker
-simple aeneas docker
+# USAGE
+docker run -it scvgoe/aeneas /bin/bash
+
+python3 -m aeneas.diagnostics
